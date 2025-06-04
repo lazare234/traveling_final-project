@@ -1,0 +1,12 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card-title {
+  color: #004aad;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
